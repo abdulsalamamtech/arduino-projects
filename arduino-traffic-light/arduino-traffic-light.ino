@@ -1,9 +1,9 @@
 
 
 
-int RED = 4;
-int YELLOW = 3;
-int GREEN = 2;
+int RED = 12;
+int YELLOW = 10;
+int GREEN = 8;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
